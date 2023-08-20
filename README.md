@@ -2,7 +2,7 @@
 
 Este proyecto es la solucion de la competencia de Kaggle [Home Credit Default Risk challenge](https://www.kaggle.com/competitions/home-credit-default-risk).
 
-La base de datos que se utilizó para este proyecto se puede descargar en este enlace [Home Credit Data] (https://www.kaggle.com/competitions/home-credit-default-risk/data).
+La base de datos que se utilizó para este proyecto se puede descargar en este enlace [Home Credit Data](https://www.kaggle.com/competitions/home-credit-default-risk/data).
 
 Este proyecto fué mi entrega final dentro del curso de Ciencia de Datos de Skills.tech .
 
